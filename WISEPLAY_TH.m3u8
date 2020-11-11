@@ -105,3 +105,23 @@ https://www.doomovie-hd.com/?r=tv_view&id=227
 https://www.doomovie-hd.com/?r=tv_view&id=228
 #EXTINF:-1,  LIVERPOOL TV
 https://www.doomovie-hd.com/?r=tv_view&id=229
+#EXTINF:-1,  M Channel
+http://27.254.142.207:8080/live/web.m3u8
+#EXTINF:-1,  7 liveTV 1
+https://vvipscore.com/live.php?id=20112
+#EXTINF:-1,  7 liveTV 2
+https://vvipscore.com/live.php?id=20113
+#EXTINF:-1,  7 liveTV 5
+https://vvipscore.com/live.php?id=20114
+#EXTINF:-1,  Poland
+https://vvipscore.com/live.php?id=20115
+#EXTINF:-1,  Uruguay
+https://vvipscore.com/live.php?id=20117
+#EXTINF:-1,  FOX SPORT NL
+https://vvipscore.com/live.php?id=20118
+#EXTINF:-1,  ARENA SPORT 1
+https://ball8k.com/m/ch.php?stream=arenasport1serbia
+#EXTINF:-1,  ARENA SPORT 3
+https://ball8k.com/m/ch.php?stream=arenasport3serbia
+#EXTINF:-1,  ARENA SPORT 4
+https://ball8k.com/m/ch.php?stream=arenasport4serbia
