@@ -127,6 +127,9 @@ https://www.mvtv.co.th/channel/sakalachannel
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",ราม่า
 https://www.mvtv.co.th/channel/ramachannel
 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png", T Sport Channel
+https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.sine.tv/images/icon/ArenaSport1Serbia.png", ArenaSport1
 https://www.sine.tv/tvonline/ch287/
 
