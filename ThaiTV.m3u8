@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
+#EXTINF:-1 tvg-logo="https://www.sine.tv/images/icon/5hd.png", TV 5 HD
 #https://www.ballsoi8.com/live/?ch=5hd
 https://www.sine.tv/tvonline/ch005/
 
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
+#EXTINF:-1 tvg-logo="https://www.sine.tv/images/icon/nbt.png",NBT HD
 #https://www.ballsoi8.com/live/?ch=nbt
 https://www.sine.tv/tvonline/ch011/
 
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
+#EXTINF:-1 tvg-logo="https://www.sine.tv/images/icon/thaipbs.png",ThaiPBS HD
 #https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 https://www.sine.tv/tvonline/ch025/
 
