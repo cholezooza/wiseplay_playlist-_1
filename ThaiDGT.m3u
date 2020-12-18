@@ -12,7 +12,8 @@ https://tubtoeball.net/broadcast-live/?schid=76153
 https://www.liveballsod.com/tv-online/ch016/
 
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/mono29.png",Mono29
-https://www.liveballsod.com/tv-online/ch020/
+#https://www.liveballsod.com/tv-online/ch020/
+https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/mono29
 
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/3hd.png",3HD
 https://www.liveballsod.com/tv-online/ch001/
@@ -20,7 +21,7 @@ https://www.liveballsod.com/tv-online/ch001/
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/7hd.png",7HD
 https://www.liveballsod.com/tv-online/ch007/
 
-#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/mcothd.png"MCOT HD
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/mcothd.png",MCOT HD
 https://www.liveballsod.com/tv-online/ch009/
 
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ThairathTV.png",Thairath TV
@@ -58,3 +59,58 @@ https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/PPTVHD.png",PPTV HD
 https://www.liveballsod.com/tv-online/ch004/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch026b.png",beIN Sports  1
+https://www.liveballsod.com/tv-online/ch026/
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch027b.png",beIN Sports  2
+https://www.liveballsod.com/tv-online/ch027/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch394.png",Canal 11
+https://www.liveballsod.com/tv-online/ch394/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch353.png",Ziggo Sport
+https://www.liveballsod.com/tv-online/ch353/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch283.png",GOL TV
+https://www.liveballsod.com/tv-online/ch283/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch093.png",SportTV
+https://www.liveballsod.com/tv-online/ch093
+/
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch392.png",Free Sport UK
+https://www.liveballsod.com/tv-online/ch392/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch388.png",Bein Spot 2 AU
+https://www.liveballsod.com/tv-online/ch388/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch385.png",Telekom Sport 1
+https://www.liveballsod.com/tv-online/ch385/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch373.png",True EPL 1
+https://www.liveballsod.com/tv-online/ch373/
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch374.png",True EPL 2
+https://www.liveballsod.com/tv-online/ch374/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch287.png",Arena Sport 1
+https://www.liveballsod.com/tv-online/ch287/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch288.png",Arena Sport 2
+https://www.liveballsod.com/tv-online/ch288/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch289.png",Arena Sport 3
+https://www.liveballsod.com/tv-online/ch289/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch290.png",Arena Sport 4
+https://www.liveballsod.com/tv-online/ch290/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch345.png"Sport Klub HD 1
+https://www.liveballsod.com/tv-online/ch345/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch346.png"Sport Klub HD 2
+https://www.liveballsod.com/tv-online/ch346/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch314.png"Sport Klub HD 3
+https://www.liveballsod.com/tv-online/ch314/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch348.png"Sport Klub HD 4
+=https://www.liveballsod.com/tv-online/ch348/
