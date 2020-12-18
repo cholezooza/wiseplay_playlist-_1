@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/nbt.png",NBT2HD
+https://www.liveballsod.com/tv-online/ch011/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/5hd.png",TV5HD
+https://www.liveballsod.com/tv-online/ch005/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/5hd.png",TV5HD(สำรอง)
+https://tubtoeball.net/broadcast-live/?schid=76153
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/True4U.png",true4U
+https://www.liveballsod.com/tv-online/ch016/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/mono29.png",Mono29
+https://www.liveballsod.com/tv-online/ch020/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/3hd.png",3HD
+https://www.liveballsod.com/tv-online/ch001/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/7hd.png",7HD
+https://www.liveballsod.com/tv-online/ch007/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/mcothd.png"MCOT HD
+https://www.liveballsod.com/tv-online/ch009/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ThairathTV.png",Thairath TV
+https://www.liveballsod.com/tv-online/ch010/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/now26.png",NOW 26
+https://www.liveballsod.com/tv-online/ch018/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/one.png",ONE HD
+https://www.liveballsod.com/tv-online/ch021/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/WorkpointTV.png",Workpoint TV
+https://www.liveballsod.com/tv-online/ch006/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/gmm.png",GMM 25
+https://www.liveballsod.com/tv-online/ch017/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/nation.png",Nation TV
+https://www.liveballsod.com/tv-online/ch022/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/amarin.png",Amarin TV
+https://www.liveballsod.com/tv-online/ch023/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/8.png",CH 8
+https://www.liveballsod.com/tv-online/ch019/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/newtv.png",New TV
+https://www.liveballsod.com/tv-online/ch012/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/TNN24.png",TNN 24
+https://www.liveballsod.com/tv-online/ch201/
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/TNN24.png",TNN 24(สำรอง)
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/PPTVHD.png",PPTV HD
+https://www.liveballsod.com/tv-online/ch004/
