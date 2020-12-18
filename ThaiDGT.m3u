@@ -87,9 +87,11 @@ https://www.liveballsod.com/tv-online/ch388/
 https://www.liveballsod.com/tv-online/ch385/
 
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch373.png",True EPL 1
-https://www.liveballsod.com/tv-online/ch373/
+#https://www.liveballsod.com/tv-online/ch373/
+https://www.lineballsod.com/doball/live-ch285/
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch374.png",True EPL 2
-https://www.liveballsod.com/tv-online/ch374/
+#https://www.liveballsod.com/tv-online/ch374/
+https://ball8k.com/m/ch.php?stream=epl2
 
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/2sporthd1.png",True Sport HD 1
 https://www.liveballsod.com/tv-online/ch032/
